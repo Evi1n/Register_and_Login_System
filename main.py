@@ -165,11 +165,3 @@ register_button.place(x= 240, y=400)
 
 window.protocol("WM_DELETE_WINDOW", exit_system)
 window.mainloop()
-
-
-
-
-
-
-
-
